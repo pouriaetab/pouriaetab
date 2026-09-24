@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&lines=Statistics+%C2%B7+Data+Science+%C2%B7+Business+%C2%B7+Product;Turning+messy+data+into+clear+decisions;Automation+and+lightweight+web+apps;Every+number+ships+with+its+method+and+uncertainty" alt="Typing banner" />
 
-<img src="https://komarev.com/ghpvc/?username=pouriaetab&color=58a6ff&style=flat-square&label=profile+views" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=pouriaetab&color=58a6ff&style=flat-square&label=profile+views" alt="" width="1" height="1" />
 
 </div>
 
