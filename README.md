@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&lines=Pouria+Emami+Tabrizi+(PT);AV+safety+%C2%B7+statistics+%C2%B7+risk+analytics;Rare-event+estimation+for+autonomous+fleets;Every+number+ships+with+its+method+and+uncertainty" alt="Typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&lines=Statistics+%C2%B7+Data+Science+%C2%B7+Business+%C2%B7+Product;Turning+messy+data+into+clear+decisions;Automation+and+lightweight+web+apps;Every+number+ships+with+its+method+and+uncertainty" alt="Typing banner" />
 
 <img src="https://komarev.com/ghpvc/?username=pouriaetab&color=58a6ff&style=flat-square&label=profile+views" alt="Profile views" />
 
@@ -11,33 +11,37 @@
 ### About me
 
 ```yaml
-name       : Pouria Emami Tabrizi  (PT)
-focus      : AV safety analytics · statistics · risk quantification
+focus      : statistics · data science · business · product
 degree     : M.S. Statistics (Data Science concentration)
-previously : TuSimple, autonomous trucking (safety events, V&V, metrics)
+experience : autonomous driving · automation · analytics
 base       : Austin, TX · open to relocation
-status     : Open to AV safety and safety-data roles
+status     : open to new opportunities
 ```
 
-- 🔬 Working on extreme-value and clustered-rate methods for AV fleet safety validation
-- 📄 Two open-access preprints, each archived on Zenodo with a DOI
-- 🧭 Interested in HARA and ASIL S/E/C rating, ISO 26262 / SOTIF, rare-event statistics, and honest uncertainty
+- 📊 I turn messy data into clear reports and decisions people can act on
+- ⚙️ I build lightweight web apps and automations that take manual work off people's plates
+- 📄 Two open access statistics preprints, each archived on Zenodo with a DOI
 - 🤝 I build with Claude Code as my pair programmer. I frame the problem, choose the statistics, and verify the results
 
 ---
 
 ### Experience highlights
 
-**🚛 TuSimple** · Autonomous trucking · 2020 – 2023 · *Performance Ops Analyst*
+**🚛 TuSimple** · Autonomous trucking · 2020 to 2023
 
-- Classified and verified safety events from the autonomous fleet
-- Rated events with HARA methodology using ASIL Severity / Exposure / Controllability, applying ISO 26262 and ISO 21448 (SOTIF) concepts
-- Designed safety and performance metrics, and pulled data from several internal sources together with Python and Looker
+*Performance Ops Analyst* · promoted from Data Annotator to Software QA I and II
 
-**📈 Independent** · Research and quant tooling · 2023 – present
+- Classified and verified driving events from the autonomous truck fleet
+- Built Looker dashboards and SQL queries that turned data from several internal sources into clear, decision ready reports
+- Streamlined KPI reporting and improved the accuracy of software quality metrics
+- Onboarded new hires and pushed for automation in manual review work
 
-- Statistical research on AV fleet safety, published as reproducible preprints
-- Systematic trading research: signal engines, backtesting, risk limits, and model validation dashboards
+**💼 Independent Consultant** · 2023 to present
+
+- Help small business owners across a variety of sectors organize their data and automate repetitive work
+- Build lightweight web apps that pull scattered data into one place and streamline how it flows through the business
+- Create clear, informative reports that turn raw numbers into decisions owners can act on
+- Automate recurring reporting and data cleaning so owners can run their own numbers without redoing spreadsheets by hand
 
 ---
 
@@ -45,10 +49,10 @@ status     : Open to AV safety and safety-data roles
 
 | Project | What it does |
 |:--|:--|
-| 🛡️ **[av-safety-workbench](https://github.com/pouriaetab/av-safety-workbench)** | Transparency-first workbench for AV safety risk assessment. Every number carries its method, assumptions, uncertainty and data provenance. Synthetic fleet generator with known ground truth, import from CSV / JSON / Excel / SQL, 86 tests plus an independent verification layer. Python + React, runs fully local. |
+| 🛡️ **[av-safety-workbench](https://github.com/pouriaetab/av-safety-workbench)** | Transparency first workbench for AV safety risk assessment. Every number carries its method, assumptions, uncertainty and data provenance. Synthetic fleet generator with known ground truth, import from CSV / JSON / Excel / SQL, 86 tests plus an independent verification layer. Python + React, runs fully local. |
 | 📄 **[av-clustered-rates](https://github.com/pouriaetab/av-clustered-rates)** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22646556.svg)](https://doi.org/10.5281/zenodo.22646556) | *Clustered Safety Events and the Effective Sample Size in AV Fleet Rate Estimation.* Design effects measured on real California DMV disengagement filings across twelve fleets, with NHTSA SGO data as a negative control. |
-| 📄 **[av-fleet-evt](https://github.com/pouriaetab/av-fleet-evt)** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21987202.svg)](https://doi.org/10.5281/zenodo.21987202) | Generation-aware extreme value estimation (GPD) for fleets whose sensor generations have different detection floors. Reproducible simulation shows naive pooling misstates tail risk. |
-| 🤖 **[av-safety-triage-agent](https://github.com/pouriaetab/av-safety-triage-agent)** | LLM agent that investigates flagged safety events with read-only tools, writes a SITREP, and proposes a severity for human review. A deterministic rule layer decides what counts as an event, and the agent is scored against hidden ground truth. |
+| 📄 **[av-fleet-evt](https://github.com/pouriaetab/av-fleet-evt)** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21987202.svg)](https://doi.org/10.5281/zenodo.21987202) | Generation aware extreme value estimation (GPD) for fleets whose sensor generations have different detection floors. Reproducible simulation shows naive pooling misstates tail risk. |
+| 🤖 **[av-safety-triage-agent](https://github.com/pouriaetab/av-safety-triage-agent)** | LLM agent that investigates flagged safety events with read only tools, writes a SITREP, and proposes a severity for human review. A deterministic rule layer decides what counts as an event, and the agent is scored against hidden ground truth. |
 
 <details>
 <summary><b>Quant and data tooling</b></summary>
@@ -57,8 +61,8 @@ status     : Open to AV safety and safety-data roles
 
 | Project | What it does |
 |:--|:--|
-| 📊 **[quantdesk](https://github.com/pouriaetab/quantdesk)** | Local-first trading workstation: signal engine, event-driven backtester with slippage and walk-forward analysis, risk manager with daily loss limits and a kill switch. FastAPI + React. |
-| 🔁 **[looper](https://github.com/pouriaetab/looper)** | Rules-based swing-trading assistant that fuses a technical timing engine with a fundamental scorecard into one explained stance. |
+| 📊 **[quantdesk](https://github.com/pouriaetab/quantdesk)** | Trading workstation that runs locally: signal engine, event driven backtester with slippage and walk forward analysis, risk manager with daily loss limits and a kill switch. FastAPI + React. |
+| 🔁 **[looper](https://github.com/pouriaetab/looper)** | Rules based swing trading assistant that fuses a technical timing engine with a fundamental scorecard into one explained stance. |
 | 🧪 **[trade_genai](https://github.com/pouriaetab/trade_genai)** | Local research notebook: ask in plain English, a live Python kernel runs it on market data, and ideas graduate into repeatable strategy pipelines. |
 | 🧰 **[ds-toolkit](https://github.com/pouriaetab/ds-toolkit)** · **[automate-eda](https://github.com/pouriaetab/automate-eda)** | Notebooks on statistical methods, ML and NLP, and a tool that generates EDA notebooks automatically. |
 
@@ -68,8 +72,8 @@ status     : Open to AV safety and safety-data roles
 
 ### In the lab (private builds)
 
-- **Levels and flow workstation.** Per price level: touch probability from a closed-form barrier model blended with historical counts by empirical Bayes, strengthening vs weakening from a Beta-Binomial posterior, and move size from a peaks-over-threshold GPD. A live audit tab shows each formula, its hyperparameters and assumption tests.
-- **Crypto signal system.** Advisory-first and paper-traded. Each strategy shows its training, test, validation and acceptance thresholds in one place, the coin universe updates itself as movers change, and spread is estimated per coin instead of assumed.
+- **Levels and flow workstation.** Per price level: touch probability from a closed form barrier model blended with historical counts by empirical Bayes, strengthening vs weakening from a Beta-Binomial posterior, and move size from a peaks over threshold GPD. A live audit tab shows each formula, its hyperparameters and assumption tests.
+- **Crypto signal system.** Advisory first and paper traded. Each strategy shows its training, test, validation and acceptance thresholds in one place, the coin universe updates itself as movers change, and spread is estimated per coin instead of assumed.
 - **Control deck.** One local launcher that starts, stops and assigns ports to all my webapps so they never collide.
 
 ---
@@ -83,8 +87,8 @@ flowchart LR
     C --> D[Estimators<br/>EVT · Bayesian · design effect]
     D --> E[Audit trail<br/>formula · n · assumptions · CI]
     E --> F[Dashboard]
-    F --> G{Human sign-off}
-    H[Rule layer flags event] --> I[LLM agent<br/>read-only tools]
+    F --> G{Human sign off}
+    H[Rule layer flags event] --> I[LLM agent<br/>read only tools]
     I --> J[Structured verdict<br/>with cited evidence]
     J --> G
 ```
@@ -93,7 +97,7 @@ flowchart LR
 2. When the evidence is thin, say "insufficient evidence" instead of guessing.
 3. Deterministic rules decide what counts. LLMs investigate and explain. People sign off.
 4. Test on synthetic data with known answers before trusting real data.
-5. Local-first. Nothing leaves the machine unless it has to.
+5. Local first. Nothing leaves the machine unless it has to.
 
 ---
 
@@ -166,9 +170,9 @@ flowchart LR
 
 ### Currently exploring
 
-- Sequential (SPRT-style) stopping rules for AV test mileage, as an alternative to fixed mileage targets
-- Carrying rare-event estimators from aviation and medicine into AV validation
-- Testing the generation-aware EVT estimator on real fleet data
+- Sequential (SPRT style) stopping rules for AV test mileage, as an alternative to fixed mileage targets
+- Carrying rare event estimators from aviation and medicine into AV validation
+- Testing the generation aware EVT estimator on real fleet data
 
 ```python
 pt = {
