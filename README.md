@@ -29,7 +29,7 @@ status     : open to new opportunities
 
 **🚛 TuSimple** · Autonomous trucking · 2020 to 2023
 
-*Performance Ops Analyst* · promoted from Data Annotator to Software QA I and II
+*Performance Ops Analyst / Operations Data Scientist / SQA / Annotator*
 
 - Classified and verified driving events from the autonomous truck fleet
 - Built Looker dashboards and SQL queries that turned data from several internal sources into clear, decision ready reports
