@@ -25,6 +25,27 @@ status     : open to new opportunities
 
 ---
 
+<!-- PINNED:START -->
+### Pinned
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/pouriaetab/tradecrypto"><b>📌 tradecrypto</b></a><br>
+<sub>A statistical decision pipeline with its validation, risk gates and failure history rendered live. Built as an engineering demonstration; the measured result is negative.</sub><br><br>
+<img src="https://img.shields.io/badge/Python-3572A5?style=flat-square" alt="Python" />
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/pouriaetab/av-fleet-evt"><b>📌 av-fleet-evt</b></a><br>
+<sub>Generation-aware extreme value estimation for AV flet safety validation under heterogeneous sensor-genertion detection floors. Methods paper plus synthetic imulation.</sub><br><br>
+<img src="https://img.shields.io/badge/TeX-3D6117?style=flat-square" alt="TeX" />
+</td>
+</tr>
+</table>
+
+---
+<!-- PINNED:END -->
+
 ### Experience highlights
 
 **🚛 TuSimple** · Autonomous trucking · 2020 to 2023
@@ -45,25 +66,21 @@ status     : open to new opportunities
 
 ---
 
-### Featured work
-
-| Project | What it does |
-|:--|:--|
-| 🛡️ **[av-safety-workbench](https://github.com/pouriaetab/av-safety-workbench)** | Transparency first workbench for AV safety risk assessment. Every number carries its method, assumptions, uncertainty and data provenance. Synthetic fleet generator with known ground truth, import from CSV / JSON / Excel / SQL, 86 tests plus an independent verification layer. Python + React, runs fully local. |
-| 📄 **[av-clustered-rates](https://github.com/pouriaetab/av-clustered-rates)** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22646556.svg)](https://doi.org/10.5281/zenodo.22646556) | *Clustered Safety Events and the Effective Sample Size in AV Fleet Rate Estimation.* Design effects measured on real California DMV disengagement filings across twelve fleets, with NHTSA SGO data as a negative control. |
-| 📄 **[av-fleet-evt](https://github.com/pouriaetab/av-fleet-evt)** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21987202.svg)](https://doi.org/10.5281/zenodo.21987202) | Generation aware extreme value estimation (GPD) for fleets whose sensor generations have different detection floors. Reproducible simulation shows naive pooling misstates tail risk. |
-| 🤖 **[av-safety-triage-agent](https://github.com/pouriaetab/av-safety-triage-agent)** | LLM agent that investigates flagged safety events with read only tools, writes a SITREP, and proposes a severity for human review. A deterministic rule layer decides what counts as an event, and the agent is scored against hidden ground truth. |
+### More projects
 
 <details>
-<summary><b>Quant and data tooling</b></summary>
+<summary><b>Statistics research, AV safety tools, and quant tooling</b></summary>
 
 <br>
 
 | Project | What it does |
 |:--|:--|
-| 📊 **[quantdesk](https://github.com/pouriaetab/quantdesk)** | Trading workstation that runs locally: signal engine, event driven backtester with slippage and walk forward analysis, risk manager with daily loss limits and a kill switch. FastAPI + React. |
+| 📄 **[av-clustered-rates](https://github.com/pouriaetab/av-clustered-rates)** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22646556.svg)](https://doi.org/10.5281/zenodo.22646556) | Preprint on clustered events and the effective sample size in fleet rate estimation, using real California DMV filings across twelve fleets. |
+| 🛡️ **[av-safety-workbench](https://github.com/pouriaetab/av-safety-workbench)** | Risk assessment workbench where every number carries its method, assumptions, uncertainty and data source. Python + React, runs fully local, 86 tests. |
+| 🤖 **[av-safety-triage-agent](https://github.com/pouriaetab/av-safety-triage-agent)** | LLM agent that investigates flagged events with read only tools and proposes a severity for human review, scored against hidden ground truth. |
+| 📊 **[quantdesk](https://github.com/pouriaetab/quantdesk)** | Trading workstation that runs locally: signal engine, event driven backtester, and a risk manager with daily loss limits and a kill switch. |
 | 🔁 **[looper](https://github.com/pouriaetab/looper)** | Rules based swing trading assistant that fuses a technical timing engine with a fundamental scorecard into one explained stance. |
-| 🧪 **[trade_genai](https://github.com/pouriaetab/trade_genai)** | Local research notebook: ask in plain English, a live Python kernel runs it on market data, and ideas graduate into repeatable strategy pipelines. |
+| 🧪 **[trade_genai](https://github.com/pouriaetab/trade_genai)** | Local research notebook: ask in plain English, a live Python kernel runs it on market data, and ideas graduate into repeatable pipelines. |
 | 🧰 **[ds-toolkit](https://github.com/pouriaetab/ds-toolkit)** · **[automate-eda](https://github.com/pouriaetab/automate-eda)** | Notebooks on statistical methods, ML and NLP, and a tool that generates EDA notebooks automatically. |
 
 </details>
@@ -73,7 +90,6 @@ status     : open to new opportunities
 ### In the lab (private builds)
 
 - **Levels and flow workstation.** Per price level: touch probability from a closed form barrier model blended with historical counts by empirical Bayes, strengthening vs weakening from a Beta-Binomial posterior, and move size from a peaks over threshold GPD. A live audit tab shows each formula, its hyperparameters and assumption tests.
-- **Crypto signal system.** Advisory first and paper traded. Each strategy shows its training, test, validation and acceptance thresholds in one place, the coin universe updates itself as movers change, and spread is estimated per coin instead of assumed.
 - **Control deck.** One local launcher that starts, stops and assigns ports to all my webapps so they never collide.
 
 ---
