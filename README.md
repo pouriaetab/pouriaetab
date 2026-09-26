@@ -41,6 +41,13 @@ status     : open to new opportunities
 <img src="https://img.shields.io/badge/TeX-3D6117?style=flat-square" alt="TeX" />
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/pouriaetab/tracebench"><b>📌 tracebench</b></a><br>
+<sub></sub><br><br>
+<img src="https://img.shields.io/badge/Python-3572A5?style=flat-square" alt="Python" />
+</td>
+</tr>
 </table>
 
 ---
