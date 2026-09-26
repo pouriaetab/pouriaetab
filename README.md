@@ -31,7 +31,7 @@ status     : open to new opportunities
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/pouriaetab/tradecrypto"><b>📌 tradecrypto</b></a><br>
+<a href="https://github.com/pouriaetab/glassbox"><b>📌 glassbox</b></a><br>
 <sub>A statistical decision pipeline with its validation, risk gates and failure history rendered live. Built as an engineering demonstration; the measured result is negative.</sub><br><br>
 <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square" alt="Python" />
 </td>
