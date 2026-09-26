@@ -37,14 +37,14 @@ status     : open to new opportunities
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/pouriaetab/av-fleet-evt"><b>📌 av-fleet-evt</b></a><br>
-<sub>Generation-aware extreme value estimation for AV flet safety validation under heterogeneous sensor-genertion detection floors. Methods paper plus synthetic imulation.</sub><br><br>
+<sub>Generation aware extreme value estimation for AV fleet safety validation under heterogeneous sensor generation detection floors. Methods paper plus synthetic simulation.</sub><br><br>
 <img src="https://img.shields.io/badge/TeX-3D6117?style=flat-square" alt="TeX" />
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/pouriaetab/tracebench"><b>📌 tracebench</b></a><br>
-<sub></sub><br><br>
+<sub>A verification and validation reference project: requirements traced to tests, known truth validation, calibration and an offline A/B test, run on live market data as a test bed.</sub><br><br>
 <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square" alt="Python" />
 </td>
 </tr>
