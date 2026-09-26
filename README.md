@@ -172,15 +172,14 @@ flowchart LR
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg">
-  <img src="./profile-summary-card-output/github/3-stats.svg" alt="GitHub stats" width="49%">
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg">
+  <img src="./profile-summary-card-output/github/2-most-commit-language.svg" alt="Most commit language" width="49%">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg">
   <img src="./profile-summary-card-output/github/1-repos-per-language.svg" alt="Repos per language" width="49%">
 </picture>
 
-<img src="https://streak-stats.demolab.com?user=pouriaetab&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Contribution streak" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pouriaetab/pouriaetab/output/github-snake-dark.svg">
@@ -189,19 +188,3 @@ flowchart LR
 
 </div>
 
----
-
-### Currently exploring
-
-- Sequential (SPRT style) stopping rules for AV test mileage, as an alternative to fixed mileage targets
-- Carrying rare event estimators from aviation and medicine into AV validation
-- Testing the generation aware EVT estimator on real fleet data
-
-```python
-pt = {
-    "motto"      : "A point estimate without its caveat is a liability.",
-    "first_rule" : "Known ground truth first, real data second.",
-    "side_quest" : "Turning trading statistics into AV safety methods",
-    "fuel"       : "Coffee and the opening bell",
-}
-```
