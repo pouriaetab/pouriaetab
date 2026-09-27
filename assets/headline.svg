@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="80" viewBox="0 0 720 80" role="img" aria-label="Statistics · Data Science · Business · Product / Turning messy data into clear decisions / Automation and lightweight web apps / Every number ships with its method and uncertainty"><style>
+text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;font-size:22px;font-weight:500;fill:#58A6FF;text-anchor:middle;dominant-baseline:middle;opacity:0}
+.l{animation:cycle 14.0s cubic-bezier(.22,.61,.36,1) infinite}
+@keyframes cycle{0%{opacity:0;transform:translateY(18px)}3.571%{opacity:1;transform:translateY(0)}21.429%{opacity:1;transform:translateY(0)}25.000%{opacity:0;transform:translateY(-18px)}100%{opacity:0;transform:translateY(-18px)}}
+.bar{fill:#58A6FF;opacity:.35}
+.dot{fill:#58A6FF;opacity:.25;animation:dot 14.0s steps(1) infinite}
+.l0{animation-delay:0.0s}
+@keyframes d0{0%{opacity:.25}0.000%{opacity:.9}25.000%{opacity:.25}}
+.d0{animation:d0 14.0s steps(1) infinite}
+.l1{animation-delay:3.5s}
+@keyframes d1{0%{opacity:.25}25.000%{opacity:.9}50.000%{opacity:.25}}
+.d1{animation:d1 14.0s steps(1) infinite}
+.l2{animation-delay:7.0s}
+@keyframes d2{0%{opacity:.25}50.000%{opacity:.9}75.000%{opacity:.25}}
+.d2{animation:d2 14.0s steps(1) infinite}
+.l3{animation-delay:10.5s}
+@keyframes d3{0%{opacity:.25}75.000%{opacity:.9}100.000%{opacity:.25}}
+.d3{animation:d3 14.0s steps(1) infinite}
+</style><text class="l l0" x="360" y="32">Statistics · Data Science · Business · Product</text><text class="l l1" x="360" y="32">Turning messy data into clear decisions</text><text class="l l2" x="360" y="32">Automation and lightweight web apps</text><text class="l l3" x="360" y="32">Every number ships with its method and uncertainty</text><circle class="dot d0" cx="333" cy="68" r="3.2"/><circle class="dot d1" cx="351" cy="68" r="3.2"/><circle class="dot d2" cx="369" cy="68" r="3.2"/><circle class="dot d3" cx="387" cy="68" r="3.2"/></svg>
