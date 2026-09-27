@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2A5F,100:1F6FEB&height=160&section=header&text=Statistics%20%C2%B7%20Data%20Science%20%C2%B7%20Business%20%C2%B7%20Product&fontSize=28&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn" alt="Statistics, Data Science, Business, Product" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2A5F,100:1F6FEB&height=160&section=header&text=Statistics%20%C2%B7%20Data%20Science%20%C2%B7%20Business%20%C2%B7%20Product&fontSize=28&fontColor=FFFFFF&fontAlignY=40" alt="Statistics, Data Science, Business, Product" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&lines=Turning+messy+data+into+clear+decisions;Automation+and+lightweight+web+apps;Every+number+ships+with+its+method+and+uncertainty" alt="Typing banner" />
 
@@ -185,4 +185,3 @@ flowchart LR
 </picture>
 
 </div>
-
