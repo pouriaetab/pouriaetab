@@ -47,6 +47,11 @@ status     : open to new opportunities
 <sub>A verification and validation reference project: requirements traced to tests, known truth validation, calibration and an offline A/B test, run on live market data as a test bed.</sub><br><br>
 <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square" alt="Python" />
 </td>
+<td width="50%" valign="top">
+<a href="https://github.com/pouriaetab/localdeck"><b>📌 localdeck</b></a><br>
+<sub>A local control panel to start, stop, watch and open all your local web apps from one browser tab.</sub><br><br>
+<img src="https://img.shields.io/badge/Python-3572A5?style=flat-square" alt="Python" />
+</td>
 </tr>
 </table>
 
