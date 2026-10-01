@@ -21,7 +21,6 @@ status     : open to new opportunities
 - 📊 I turn messy data into clear reports and decisions people can act on
 - ⚙️ I build lightweight web apps and automations that take manual work off people's plates
 - 📄 Two open access statistics preprints, each archived on Zenodo with a DOI
-- 🤝 I build with Claude Code as my pair programmer. I frame the problem, choose the statistics, and verify the results
 
 ---
 
@@ -56,7 +55,7 @@ status     : open to new opportunities
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/pouriaetab/llmledger"><b>📌 llmledger</b></a><br>
-<sub></sub><br><br>
+<sub>Change history of LiteLLM's model catalogue, rebuilt from git, with a competing-risks model of price changes, retirements and removals.</sub><br><br>
 <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square" alt="Python" />
 </td>
 </tr>
@@ -71,17 +70,18 @@ status     : open to new opportunities
 
 *Performance Ops Analyst / Operations Data Scientist / SQA / Annotator*
 
-- Classified and verified driving events from the autonomous truck fleet
-- Built Looker dashboards and SQL queries that turned data from several internal sources into clear, decision ready reports
-- Streamlined KPI reporting and improved the accuracy of software quality metrics
-- Onboarded new hires and pushed for automation in manual review work
+- First hire on the verification and validation team; wrote its procedures and onboarded new hires as it grew from 2 to 7
+- Worked the issue triage queue end to end: reproduced failures from recorded driving data, rated their severity, and escalated confirmed bugs to engineering with the evidence
+- Led the root cause analysis that cut missed failures in new code from 10% to 3%
+- Owned the requirements, acceptance criteria and testing for an internal QA tool through company wide adoption
+- Built Looker dashboards and Python and SQL reporting from 1M+ Jira tickets, and defined what each metric counted so leadership reviewed accurate numbers
 
 **💼 Independent Consultant** · 2023 to present
 
-- Help small business owners across a variety of sectors organize their data and automate repetitive work
-- Build lightweight web apps that pull scattered data into one place and streamline how it flows through the business
-- Create clear, informative reports that turn raw numbers into decisions owners can act on
-- Automate recurring reporting and data cleaning so owners can run their own numbers without redoing spreadsheets by hand
+- Help small business owners replace manual spreadsheet work with lightweight web apps and automated reports: map how their work flows, find where it stalls, set up the fix and train them on it
+- Connect their tools through APIs and scheduled jobs so new data lands in one place, with an alert when something needs attention
+- Build with AI coding tools under requirements, tests and acceptance criteria I write, with every change tracked in Git and GitHub
+- Create clear reports that turn raw numbers into decisions owners can act on
 
 ---
 
