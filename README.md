@@ -55,7 +55,7 @@ status     : open to new opportunities
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/pouriaetab/llmledger"><b>📌 llmledger</b></a><br>
-<sub>Change history of LiteLLM's model catalogue, rebuilt from git, with a competing-risks model of price changes, retirements and removals.</sub><br><br>
+<sub>   Change history of LiteLLM&#x27;s model catalogue, rebuilt from git, with a competing-risks model of price changes, retirements and removals.</sub><br><br>
 <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square" alt="Python" />
 </td>
 </tr>
