@@ -13,8 +13,8 @@
 ```yaml
 focus      : statistics · data science · business · product
 degree     : M.S. Statistics (Data Science concentration)
-experience : autonomous driving · automation · analytics
-status     : open to new opportunities · open to relocation
+experience : mobile retail · real estate · solar energy · autonomous trucking · consulting
+now        : AI system design · LLM evaluation · agentic workflows · automation
 ```
 
 - 📊 I turn messy data into clear reports and decisions people can act on
