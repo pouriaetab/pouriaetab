@@ -28,32 +28,25 @@ status     : open to new opportunities · open to relocation
 <table>
 <tr>
 <td width="50%" valign="top">
+<a href="https://github.com/pouriaetab/llmledger"><b>📌 llmledger</b></a><br>
+<sub>   What happens to an LLM after it is added to LiteLLM&#x27;s price catalogue: competing risks survival analysis of price changes, retirements and removals.</sub><br><br>
+<img src="https://img.shields.io/badge/Python-3572A5?style=flat-square" alt="Python" />
+</td>
+<td width="50%" valign="top">
 <a href="https://github.com/pouriaetab/glassbox"><b>📌 glassbox</b></a><br>
 <sub>A statistical decision pipeline with its validation, risk gates and failure history rendered live. Built as an engineering demonstration; the measured result is negative.</sub><br><br>
 <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square" alt="Python" />
 </td>
-<td width="50%" valign="top">
-<a href="https://github.com/pouriaetab/av-fleet-evt"><b>📌 av-fleet-evt</b></a><br>
-<sub>Generation aware extreme value estimation for AV fleet safety validation under heterogeneous sensor generation detection floors. Methods paper plus synthetic simulation.</sub><br><br>
-<img src="https://img.shields.io/badge/TeX-3D6117?style=flat-square" alt="TeX" />
-</td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<a href="https://github.com/pouriaetab/tracebench"><b>📌 tracebench</b></a><br>
-<sub>A verification and validation reference project: requirements traced to tests, known truth validation, calibration and an offline A/B test, run on live market data as a test bed.</sub><br><br>
-<img src="https://img.shields.io/badge/Python-3572A5?style=flat-square" alt="Python" />
-</td>
 <td width="50%" valign="top">
 <a href="https://github.com/pouriaetab/localdeck"><b>📌 localdeck</b></a><br>
 <sub>A local control panel to start, stop, watch and open all your local web apps from one browser tab.</sub><br><br>
 <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square" alt="Python" />
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<a href="https://github.com/pouriaetab/llmledger"><b>📌 llmledger</b></a><br>
-<sub>   What happens to an LLM after it is added to LiteLLM&#x27;s price catalogue: competing risks survival analysis of price changes, retirements and removals.</sub><br><br>
+<a href="https://github.com/pouriaetab/tracebench"><b>📌 tracebench</b></a><br>
+<sub>A verification and validation reference project: requirements traced to tests, known truth validation, calibration and an offline A/B test, run on live market data as a test bed.</sub><br><br>
 <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square" alt="Python" />
 </td>
 </tr>
