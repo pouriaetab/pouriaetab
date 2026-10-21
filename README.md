@@ -29,7 +29,7 @@ now        : AI system design · LLM evaluation · agentic workflows · automati
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/pouriaetab/llmledger"><b>📌 llmledger</b></a><br>
-<sub>   What happens to an LLM after it is added to LiteLLM&#x27;s price catalogue: competing risks survival analysis of price changes, retirements and removals.</sub><br><br>
+<sub>Which AI model should you use, and what will it cost? Every price change in LiteLLM&#x27;s catalogue since 2023, Arena ratings, a competing risks model, an MCP plug-in and an Agent Skill. Rebuilt daily.</sub><br><br>
 <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square" alt="Python" />
 </td>
 <td width="50%" valign="top">
