@@ -136,27 +136,3 @@ flowchart LR
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Zenodo](https://img.shields.io/badge/Zenodo-1682D4?style=flat-square&logo=zenodo&logoColor=white)
-
----
-
-### GitHub activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg">
-  <img src="./profile-summary-card-output/github/0-profile-details.svg" alt="Contribution summary" width="100%">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg">
-  <img src="./profile-summary-card-output/github/1-repos-per-language.svg" alt="Repos per language" width="60%">
-</picture>
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pouriaetab/pouriaetab/output/github-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/pouriaetab/pouriaetab/output/github-snake.svg" alt="Contribution snake" width="100%">
-</picture>
-
-</div>
