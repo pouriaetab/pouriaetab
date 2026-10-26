@@ -28,25 +28,25 @@ now        : AI system design · LLM evaluation · agentic workflows · automati
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/pouriaetab/llmledger"><b>📌 llmledger</b></a><br>
-<sub>Which AI model should you use, and what will it cost? Every price change in LiteLLM&#x27;s catalogue since 2023, Arena ratings, a competing risks model, an MCP plug-in and an Agent Skill. Rebuilt daily.</sub><br><br>
-<img src="https://img.shields.io/badge/Python-3572A5?style=flat-square" alt="Python" />
+<a href="https://github.com/pouriaetab/leanfare"><b>📌 leanfare</b></a><br>
+<sub>Every top AI model in one app on your own computer, with the cost of every answer, automatic model choice and a budget that holds.</sub><br><br>
+<img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square" alt="TypeScript" />
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/pouriaetab/glassbox"><b>📌 glassbox</b></a><br>
-<sub>A statistical decision pipeline with its validation, risk gates and failure history rendered live. Built as an engineering demonstration; the measured result is negative.</sub><br><br>
+<a href="https://github.com/pouriaetab/llmledger"><b>📌 llmledger</b></a><br>
+<sub>Which AI model should you use, and what will it cost? Every price change in LiteLLM&#x27;s catalogue since 2023, Arena ratings, a competing risks model, an MCP plug-in and an Agent Skill. Rebuilt daily.</sub><br><br>
 <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square" alt="Python" />
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/pouriaetab/localdeck"><b>📌 localdeck</b></a><br>
-<sub>A local control panel to start, stop, watch and open all your local web apps from one browser tab.</sub><br><br>
+<a href="https://github.com/pouriaetab/glassbox"><b>📌 glassbox</b></a><br>
+<sub>A statistical decision pipeline with its validation, risk gates and failure history rendered live. Built as an engineering demonstration; the measured result is negative.</sub><br><br>
 <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square" alt="Python" />
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/pouriaetab/tracebench"><b>📌 tracebench</b></a><br>
-<sub>A verification and validation reference project: requirements traced to tests, known truth validation, calibration and an offline A/B test, run on live market data as a test bed.</sub><br><br>
+<a href="https://github.com/pouriaetab/localdeck"><b>📌 localdeck</b></a><br>
+<sub>A local control panel to start, stop, watch and open all your local web apps from one browser tab.</sub><br><br>
 <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square" alt="Python" />
 </td>
 </tr>
